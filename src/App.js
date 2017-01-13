@@ -11,6 +11,7 @@ import Footer from './Components/Footer';
 
 const port = (process.env.PORT || 3000)
 
+
 class App extends Component {
   constructor(props){
     super(props);
@@ -22,7 +23,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'http://localhost:' +port+ '/resumeData.json',
+      url:'https://localhost:' +PORT+ '/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -30,7 +31,7 @@ class App extends Component {
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
-        alert(err);
+        alert(err + "Hi");
       }
     });
   }
