@@ -1,0 +1,208 @@
+{
+  "main": {
+    "name":"Carlos Lopez",
+    "occupation":"Aspiring web developer, programmer, designer, and instructor",
+    "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
+    "image":"bioPicEmoji.jpg",
+    "bio": "I am a bad hombre! Hire me. I will do great things.  Yuge!!  Ask anyone.  Ask my mom.",
+    "email": "clo2go@gmail.com",
+    "phone": "999-999-9999",
+    "address":{
+      "street":"21 Jump St.",
+      "city":"Austin",
+      "state":"TX",
+      "zip": "78704"
+    },
+    "website": "www.clo2goco@gmail.com",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/lopezlbj",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Lopezlbj",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/carlos-lopez-a0314465",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/clo2go",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"http://stackoverflow.com/users/6657094/carlos-lopez",
+        "className":"fa fa-stack-overflow"
+      }
+    ]
+  },
+  
+  "resume":{
+    "education":[
+      {
+        "school":"The UT Coding Bootcamp at UT Austin",
+        "degree":"Full Stack Web Develment Certificate.",
+        "graduated":"February 2016",
+        "description":"In this program I recieved a variety of full-stack developer experience that allowed me to build on the skills that make proficient in frontend and backend technologies. I learned HTML, CSS, JavaScript, jQuery and Node.js, as well as PHP frameworks like Laravel, and database systems such as MySQL and MongoDB."
+      },
+      {
+        "school":"Concordia University- Portland",
+        "degree":"Master of Education: Curriculum & Instruction with an E-Learning/ Tech Education Specialization.",
+        "graduated":"December 2015",
+        "description":"summarize distance/blended instruction and dev opportunities."
+      },
+      {
+        "school":"Wayland Baptist University",
+        "degree":"Bachelor of Business Administration: Information Systems Specialization. Spanish Double Major",
+        "graduated":"Aug 2014",
+        "description":"highlights:Represented Wayland Baptist University to lobby for Texas Equalization Grant at the Capitol in Austin, Texas. Student Government: Senior Senator.Freshman orientation team leader. Volunteer big brother for underprivileged students in Plainview community schools. Member of “Team Wayland” community service activity group. 2-year NAIA varsity athlete for WBU Pioneers – Pitcher."
+
+      }
+    ],
+    "work":[
+      {
+        "company":"LBJ Early College High School- Austin Independent School District",
+        "title":"Spanish Teacher ",
+        "years":"Sept 2005 - Present",
+        "description":"LBJ HIGH Lights: P-tech, Twilight, etc.."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"UX Designer",
+        "years":"March 2007 - February 2010",
+        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"99%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"99%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"jQuery",
+        "level":"93%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Psychic Hangman",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Crystal RPG",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Trivia",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Gistastic",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Train Schedule",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Multi Player RPS",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Liri Bot",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Friend Finder",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
